@@ -1,0 +1,25 @@
+Spieler_ID,Name,Geburtsdatum,Alter,Staatsangehoerigkeit,Telefonnummer,Wohnort,Verein
+P1,Max Wagner,1998-03-12,28,Deutschland,+49151000001,Muenchen,FC Bayern Muenchen
+P2,Jonas Keller,2000-07-25,26,Deutschland,+49151000002,Dortmund,Borussia Dortmund
+P3,Leon Fischer,1999-01-09,27,Deutschland,+49151000003,Leipzig,RB Leipzig
+P4,Tim Bauer,1996-11-30,29,Deutschland,+49151000004,Leverkusen,Bayer Leverkusen
+P5,Felix Hartmann,1997-05-17,29,Deutschland,+49151000005,Stuttgart,VfB Stuttgart
+P6,Niklas Schroeder,1998-09-02,27,Deutschland,+49151000006,Frankfurt,Eintracht Frankfurt
+P7,David Meyer,1995-12-14,30,Deutschland,+49151000007,Wolfsburg,VfL Wolfsburg
+P8,Paul Zimmermann,1997-08-21,28,Deutschland,+49151000008,Moenchengladbach,Borussia Moenchengladbach
+P9,Julian Weber,1999-04-03,26,Deutschland,+49151000009,Berlin,1. FC Union Berlin
+P10,Erik Schulz,1996-02-19,29,Deutschland,+49151000010,Freiburg,SC Freiburg
+P11,Moritz Hoffmann,1998-06-27,27,Deutschland,+49151000011,Hoffenheim,TSG Hoffenheim
+P12,Simon Koch,1997-10-11,28,Deutschland,+49151000012,Mainz,1. FSV Mainz 05
+P13,Fabian Richter,1995-03-08,30,Deutschland,+49151000013,Augsburg,FC Augsburg
+P14,Lukas Wolf,1999-07-22,26,Deutschland,+49151000014,Bremen,Werder Bremen
+P15,Jan Neumann,1998-01-16,27,Deutschland,+49151000015,Koeln,1. FC Koeln
+P16,Marco Schwarz,1996-09-29,29,Deutschland,+49151000016,Muenchen,FC Bayern Muenchen
+P17,Daniel Braun,1997-11-05,28,Deutschland,+49151000017,Dortmund,Borussia Dortmund
+P18,Sebastian Krueger,1999-02-13,26,Deutschland,+49151000018,Leipzig,RB Leipzig
+P19,Kevin Lange,2003-05-30,23,Deutschland,+49151000019,Stuttgart,VfB Stuttgart
+P20,Marvin Hofmann,2002-08-18,23,Deutschland,+49151000020,Frankfurt,Eintracht Frankfurt
+P21,Ali Yildiz,2004-03-25,21,Tuerkei,+49151000021,Berlin,Hertha BSC
+P22,Niko Petrov,2003-12-01,22,Kroatien,+49151000022,Hamburg,Hamburger SV
+P23,Elias Roth,2006-04-09,19,Deutschland,+49151000023,Muenchen,FC Bayern Muenchen U19
+P24,Milan Novak,2006-01-27,19,Serbien,+49151000024,Leipzig,RB Leipzig U19

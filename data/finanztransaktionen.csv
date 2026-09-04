@@ -1,0 +1,243 @@
+TX_ID,Spieler_ID,Sender,Empfaenger,Zahlungsname,Zahlungstyp,Zahlungsdatum,Zahlungsbetrag,Zahlungswaehrung,Zahlungsabwicklung,Zahlungsstatus
+TX1,P1,DFB,Max Wagner,Auflaufpraemie Spiel G1 vs. Frankreich,Auflaufpraemie,9/6/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX2,P1,DFB,Max Wagner,Siegpraemie Spiel G1 vs. Frankreich,Siegpraemie,9/6/2024,10000,EUR,Ueberweisung,bezahlt
+TX3,P1,DFB,Max Wagner,Auflaufpraemie Spiel G2 vs. Niederlande,Auflaufpraemie,10/11/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX4,P1,DFB,Max Wagner,Auflaufpraemie Spiel G3 vs. Italien,Auflaufpraemie,11/15/2024,15000,EUR,Ueberweisung,bezahlt
+TX5,P1,DFB,Max Wagner,Auflaufpraemie Spiel G4 vs. Ungarn,Auflaufpraemie,11/19/2024,15000,EUR,Ueberweisung,bezahlt
+TX6,P1,DFB,Max Wagner,Siegpraemie Spiel G4 vs. Ungarn,Siegpraemie,11/19/2024,10000,EUR,Ueberweisung,bezahlt
+TX7,P1,DFB,Max Wagner,Auflaufpraemie Spiel G5 vs. USA,Auflaufpraemie,3/21/2025,15000,EUR,SEPA-Lastschrift,bezahlt
+TX8,P1,DFB,Max Wagner,Siegpraemie Spiel G5 vs. USA,Siegpraemie,3/21/2025,10000,EUR,Ueberweisung,bezahlt
+TX9,P1,DFB,Max Wagner,Auflaufpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Auflaufpraemie,6/2/2025,15000,EUR,Ueberweisung,bezahlt
+TX10,P1,DFB,Max Wagner,Siegpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Siegpraemie,6/2/2025,10000,EUR,Ueberweisung,bezahlt
+TX11,P1,DFB,Max Wagner,Auflaufpraemie Spiel G7 vs. Belgien,Auflaufpraemie,9/5/2025,15000,EUR,Ueberweisung,ausstehend
+TX12,P1,DFB,Max Wagner,Auflaufpraemie Spiel G8 vs. Polen,Auflaufpraemie,9/8/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX13,P1,DFB,Max Wagner,Siegpraemie Spiel G8 vs. Polen,Siegpraemie,9/8/2025,10000,EUR,SEPA-Lastschrift,ausstehend
+TX14,P1,DFB,Max Wagner,Auflaufpraemie Spiel G9 vs. Portugal,Auflaufpraemie,10/10/2025,15000,EUR,Ueberweisung,ausstehend
+TX15,P1,DFB,Max Wagner,Siegpraemie Spiel G9 vs. Portugal,Siegpraemie,10/10/2025,10000,EUR,Ueberweisung,ausstehend
+TX16,P1,DFB,Max Wagner,Auflaufpraemie Spiel G10 vs. Portugal,Auflaufpraemie,10/13/2025,15000,EUR,Ueberweisung,ausstehend
+TX17,P1,DFB,Max Wagner,Auflaufpraemie Spiel G11 vs. Brasilien,Auflaufpraemie,11/14/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX18,P1,DFB,Max Wagner,Auflaufpraemie Spiel G12 vs. Spanien,Auflaufpraemie,3/20/2026,15000,EUR,Ueberweisung,ausstehend
+TX19,P2,DFB,Jonas Keller,Auflaufpraemie Spiel G1 vs. Frankreich,Auflaufpraemie,9/6/2024,15000,EUR,Ueberweisung,bezahlt
+TX20,P2,DFB,Jonas Keller,Siegpraemie Spiel G1 vs. Frankreich,Siegpraemie,9/6/2024,10000,EUR,Ueberweisung,bezahlt
+TX21,P2,DFB,Jonas Keller,Auflaufpraemie Spiel G2 vs. Niederlande,Auflaufpraemie,10/11/2024,15000,EUR,Ueberweisung,bezahlt
+TX22,P2,DFB,Jonas Keller,Auflaufpraemie Spiel G3 vs. Italien,Auflaufpraemie,11/15/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX23,P2,DFB,Jonas Keller,Auflaufpraemie Spiel G4 vs. Ungarn,Auflaufpraemie,11/19/2024,15000,EUR,Ueberweisung,bezahlt
+TX24,P2,DFB,Jonas Keller,Siegpraemie Spiel G4 vs. Ungarn,Siegpraemie,11/19/2024,10000,EUR,Ueberweisung,bezahlt
+TX25,P2,DFB,Jonas Keller,Auflaufpraemie Spiel G5 vs. USA,Auflaufpraemie,3/21/2025,15000,EUR,Ueberweisung,bezahlt
+TX26,P2,DFB,Jonas Keller,Siegpraemie Spiel G5 vs. USA,Siegpraemie,3/21/2025,10000,EUR,Ueberweisung,bezahlt
+TX27,P2,DFB,Jonas Keller,Auflaufpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Auflaufpraemie,6/2/2025,15000,EUR,SEPA-Lastschrift,bezahlt
+TX28,P2,DFB,Jonas Keller,Siegpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Siegpraemie,6/2/2025,10000,EUR,SEPA-Lastschrift,bezahlt
+TX29,P2,DFB,Jonas Keller,Auflaufpraemie Spiel G7 vs. Belgien,Auflaufpraemie,9/5/2025,15000,EUR,Ueberweisung,ausstehend
+TX30,P2,DFB,Jonas Keller,Auflaufpraemie Spiel G8 vs. Polen,Auflaufpraemie,9/8/2025,15000,EUR,Ueberweisung,ausstehend
+TX31,P2,DFB,Jonas Keller,Siegpraemie Spiel G8 vs. Polen,Siegpraemie,9/8/2025,10000,EUR,SEPA-Lastschrift,ausstehend
+TX32,P2,DFB,Jonas Keller,Auflaufpraemie Spiel G9 vs. Portugal,Auflaufpraemie,10/10/2025,15000,EUR,Ueberweisung,ausstehend
+TX33,P2,DFB,Jonas Keller,Siegpraemie Spiel G9 vs. Portugal,Siegpraemie,10/10/2025,10000,EUR,Ueberweisung,ausstehend
+TX34,P2,DFB,Jonas Keller,Auflaufpraemie Spiel G10 vs. Portugal,Auflaufpraemie,10/13/2025,15000,EUR,Ueberweisung,ausstehend
+TX35,P2,DFB,Jonas Keller,Auflaufpraemie Spiel G11 vs. Brasilien,Auflaufpraemie,11/14/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX36,P2,DFB,Jonas Keller,Auflaufpraemie Spiel G12 vs. Spanien,Auflaufpraemie,3/20/2026,15000,EUR,Ueberweisung,ausstehend
+TX37,P3,DFB,Leon Fischer,Auflaufpraemie Spiel G1 vs. Frankreich,Auflaufpraemie,9/6/2024,15000,EUR,Ueberweisung,bezahlt
+TX38,P3,DFB,Leon Fischer,Siegpraemie Spiel G1 vs. Frankreich,Siegpraemie,9/6/2024,10000,EUR,Ueberweisung,bezahlt
+TX39,P3,DFB,Leon Fischer,Auflaufpraemie Spiel G2 vs. Niederlande,Auflaufpraemie,10/11/2024,15000,EUR,Ueberweisung,bezahlt
+TX40,P3,DFB,Leon Fischer,Auflaufpraemie Spiel G3 vs. Italien,Auflaufpraemie,11/15/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX41,P3,DFB,Leon Fischer,Auflaufpraemie Spiel G4 vs. Ungarn,Auflaufpraemie,11/19/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX42,P3,DFB,Leon Fischer,Siegpraemie Spiel G4 vs. Ungarn,Siegpraemie,11/19/2024,10000,EUR,SEPA-Lastschrift,bezahlt
+TX43,P3,DFB,Leon Fischer,Auflaufpraemie Spiel G5 vs. USA,Auflaufpraemie,3/21/2025,15000,EUR,SEPA-Lastschrift,bezahlt
+TX44,P3,DFB,Leon Fischer,Siegpraemie Spiel G5 vs. USA,Siegpraemie,3/21/2025,10000,EUR,SEPA-Lastschrift,bezahlt
+TX45,P3,DFB,Leon Fischer,Auflaufpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Auflaufpraemie,6/2/2025,15000,EUR,SEPA-Lastschrift,bezahlt
+TX46,P3,DFB,Leon Fischer,Siegpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Siegpraemie,6/2/2025,10000,EUR,SEPA-Lastschrift,bezahlt
+TX47,P3,DFB,Leon Fischer,Auflaufpraemie Spiel G7 vs. Belgien,Auflaufpraemie,9/5/2025,15000,EUR,Ueberweisung,ausstehend
+TX48,P3,DFB,Leon Fischer,Auflaufpraemie Spiel G8 vs. Polen,Auflaufpraemie,9/8/2025,15000,EUR,Ueberweisung,ausstehend
+TX49,P3,DFB,Leon Fischer,Siegpraemie Spiel G8 vs. Polen,Siegpraemie,9/8/2025,10000,EUR,Ueberweisung,ausstehend
+TX50,P3,DFB,Leon Fischer,Auflaufpraemie Spiel G9 vs. Portugal,Auflaufpraemie,10/10/2025,15000,EUR,Ueberweisung,ausstehend
+TX51,P3,DFB,Leon Fischer,Siegpraemie Spiel G9 vs. Portugal,Siegpraemie,10/10/2025,10000,EUR,SEPA-Lastschrift,ausstehend
+TX52,P3,DFB,Leon Fischer,Auflaufpraemie Spiel G10 vs. Portugal,Auflaufpraemie,10/13/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX53,P3,DFB,Leon Fischer,Auflaufpraemie Spiel G11 vs. Brasilien,Auflaufpraemie,11/14/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX54,P3,DFB,Leon Fischer,Auflaufpraemie Spiel G12 vs. Spanien,Auflaufpraemie,3/20/2026,15000,EUR,SEPA-Lastschrift,ausstehend
+TX55,P4,DFB,Tim Bauer,Auflaufpraemie Spiel G1 vs. Frankreich,Auflaufpraemie,9/6/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX56,P4,DFB,Tim Bauer,Siegpraemie Spiel G1 vs. Frankreich,Siegpraemie,9/6/2024,10000,EUR,Ueberweisung,bezahlt
+TX57,P4,DFB,Tim Bauer,Auflaufpraemie Spiel G2 vs. Niederlande,Auflaufpraemie,10/11/2024,15000,EUR,Ueberweisung,bezahlt
+TX58,P4,DFB,Tim Bauer,Auflaufpraemie Spiel G3 vs. Italien,Auflaufpraemie,11/15/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX59,P4,DFB,Tim Bauer,Auflaufpraemie Spiel G4 vs. Ungarn,Auflaufpraemie,11/19/2024,15000,EUR,Ueberweisung,bezahlt
+TX60,P4,DFB,Tim Bauer,Siegpraemie Spiel G4 vs. Ungarn,Siegpraemie,11/19/2024,10000,EUR,SEPA-Lastschrift,bezahlt
+TX61,P4,DFB,Tim Bauer,Auflaufpraemie Spiel G5 vs. USA,Auflaufpraemie,3/21/2025,15000,EUR,Ueberweisung,bezahlt
+TX62,P4,DFB,Tim Bauer,Siegpraemie Spiel G5 vs. USA,Siegpraemie,3/21/2025,10000,EUR,SEPA-Lastschrift,bezahlt
+TX63,P4,DFB,Tim Bauer,Auflaufpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Auflaufpraemie,6/2/2025,15000,EUR,SEPA-Lastschrift,bezahlt
+TX64,P4,DFB,Tim Bauer,Siegpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Siegpraemie,6/2/2025,10000,EUR,Ueberweisung,bezahlt
+TX65,P4,DFB,Tim Bauer,Auflaufpraemie Spiel G7 vs. Belgien,Auflaufpraemie,9/5/2025,15000,EUR,Ueberweisung,ausstehend
+TX66,P4,DFB,Tim Bauer,Auflaufpraemie Spiel G8 vs. Polen,Auflaufpraemie,9/8/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX67,P4,DFB,Tim Bauer,Siegpraemie Spiel G8 vs. Polen,Siegpraemie,9/8/2025,10000,EUR,SEPA-Lastschrift,ausstehend
+TX68,P4,DFB,Tim Bauer,Auflaufpraemie Spiel G9 vs. Portugal,Auflaufpraemie,10/10/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX69,P4,DFB,Tim Bauer,Siegpraemie Spiel G9 vs. Portugal,Siegpraemie,10/10/2025,10000,EUR,SEPA-Lastschrift,ausstehend
+TX70,P4,DFB,Tim Bauer,Auflaufpraemie Spiel G10 vs. Portugal,Auflaufpraemie,10/13/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX71,P4,DFB,Tim Bauer,Auflaufpraemie Spiel G11 vs. Brasilien,Auflaufpraemie,11/14/2025,15000,EUR,Ueberweisung,ausstehend
+TX72,P4,DFB,Tim Bauer,Auflaufpraemie Spiel G12 vs. Spanien,Auflaufpraemie,3/20/2026,15000,EUR,Ueberweisung,ausstehend
+TX73,P5,DFB,Felix Hartmann,Auflaufpraemie Spiel G1 vs. Frankreich,Auflaufpraemie,9/6/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX74,P5,DFB,Felix Hartmann,Siegpraemie Spiel G1 vs. Frankreich,Siegpraemie,9/6/2024,10000,EUR,SEPA-Lastschrift,bezahlt
+TX75,P5,DFB,Felix Hartmann,Auflaufpraemie Spiel G2 vs. Niederlande,Auflaufpraemie,10/11/2024,15000,EUR,Ueberweisung,bezahlt
+TX76,P5,DFB,Felix Hartmann,Auflaufpraemie Spiel G3 vs. Italien,Auflaufpraemie,11/15/2024,15000,EUR,Ueberweisung,bezahlt
+TX77,P5,DFB,Felix Hartmann,Auflaufpraemie Spiel G4 vs. Ungarn,Auflaufpraemie,11/19/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX78,P5,DFB,Felix Hartmann,Siegpraemie Spiel G4 vs. Ungarn,Siegpraemie,11/19/2024,10000,EUR,SEPA-Lastschrift,bezahlt
+TX79,P5,DFB,Felix Hartmann,Auflaufpraemie Spiel G5 vs. USA,Auflaufpraemie,3/21/2025,15000,EUR,SEPA-Lastschrift,bezahlt
+TX80,P5,DFB,Felix Hartmann,Siegpraemie Spiel G5 vs. USA,Siegpraemie,3/21/2025,10000,EUR,SEPA-Lastschrift,bezahlt
+TX81,P5,DFB,Felix Hartmann,Auflaufpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Auflaufpraemie,6/2/2025,15000,EUR,SEPA-Lastschrift,bezahlt
+TX82,P5,DFB,Felix Hartmann,Siegpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Siegpraemie,6/2/2025,10000,EUR,Ueberweisung,bezahlt
+TX83,P5,DFB,Felix Hartmann,Auflaufpraemie Spiel G7 vs. Belgien,Auflaufpraemie,9/5/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX84,P5,DFB,Felix Hartmann,Auflaufpraemie Spiel G8 vs. Polen,Auflaufpraemie,9/8/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX85,P5,DFB,Felix Hartmann,Siegpraemie Spiel G8 vs. Polen,Siegpraemie,9/8/2025,10000,EUR,Ueberweisung,ausstehend
+TX86,P5,DFB,Felix Hartmann,Auflaufpraemie Spiel G9 vs. Portugal,Auflaufpraemie,10/10/2025,15000,EUR,Ueberweisung,ausstehend
+TX87,P5,DFB,Felix Hartmann,Siegpraemie Spiel G9 vs. Portugal,Siegpraemie,10/10/2025,10000,EUR,SEPA-Lastschrift,ausstehend
+TX88,P5,DFB,Felix Hartmann,Auflaufpraemie Spiel G10 vs. Portugal,Auflaufpraemie,10/13/2025,15000,EUR,Ueberweisung,ausstehend
+TX89,P5,DFB,Felix Hartmann,Auflaufpraemie Spiel G11 vs. Brasilien,Auflaufpraemie,11/14/2025,15000,EUR,Ueberweisung,ausstehend
+TX90,P5,DFB,Felix Hartmann,Auflaufpraemie Spiel G12 vs. Spanien,Auflaufpraemie,3/20/2026,15000,EUR,SEPA-Lastschrift,ausstehend
+TX91,P6,DFB,Niklas Schroeder,Auflaufpraemie Spiel G1 vs. Frankreich,Auflaufpraemie,9/6/2024,15000,EUR,Ueberweisung,bezahlt
+TX92,P6,DFB,Niklas Schroeder,Siegpraemie Spiel G1 vs. Frankreich,Siegpraemie,9/6/2024,10000,EUR,Ueberweisung,bezahlt
+TX93,P6,DFB,Niklas Schroeder,Auflaufpraemie Spiel G2 vs. Niederlande,Auflaufpraemie,10/11/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX94,P6,DFB,Niklas Schroeder,Auflaufpraemie Spiel G3 vs. Italien,Auflaufpraemie,11/15/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX95,P6,DFB,Niklas Schroeder,Auflaufpraemie Spiel G4 vs. Ungarn,Auflaufpraemie,11/19/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX96,P6,DFB,Niklas Schroeder,Siegpraemie Spiel G4 vs. Ungarn,Siegpraemie,11/19/2024,10000,EUR,Ueberweisung,bezahlt
+TX97,P6,DFB,Niklas Schroeder,Auflaufpraemie Spiel G5 vs. USA,Auflaufpraemie,3/21/2025,15000,EUR,Ueberweisung,bezahlt
+TX98,P6,DFB,Niklas Schroeder,Siegpraemie Spiel G5 vs. USA,Siegpraemie,3/21/2025,10000,EUR,SEPA-Lastschrift,bezahlt
+TX99,P6,DFB,Niklas Schroeder,Auflaufpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Auflaufpraemie,6/2/2025,15000,EUR,SEPA-Lastschrift,bezahlt
+TX100,P6,DFB,Niklas Schroeder,Siegpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Siegpraemie,6/2/2025,10000,EUR,SEPA-Lastschrift,bezahlt
+TX101,P6,DFB,Niklas Schroeder,Auflaufpraemie Spiel G7 vs. Belgien,Auflaufpraemie,9/5/2025,15000,EUR,Ueberweisung,ausstehend
+TX102,P6,DFB,Niklas Schroeder,Auflaufpraemie Spiel G8 vs. Polen,Auflaufpraemie,9/8/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX103,P6,DFB,Niklas Schroeder,Siegpraemie Spiel G8 vs. Polen,Siegpraemie,9/8/2025,10000,EUR,SEPA-Lastschrift,ausstehend
+TX104,P6,DFB,Niklas Schroeder,Auflaufpraemie Spiel G9 vs. Portugal,Auflaufpraemie,10/10/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX105,P6,DFB,Niklas Schroeder,Siegpraemie Spiel G9 vs. Portugal,Siegpraemie,10/10/2025,10000,EUR,SEPA-Lastschrift,ausstehend
+TX106,P6,DFB,Niklas Schroeder,Auflaufpraemie Spiel G10 vs. Portugal,Auflaufpraemie,10/13/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX107,P6,DFB,Niklas Schroeder,Auflaufpraemie Spiel G11 vs. Brasilien,Auflaufpraemie,11/14/2025,15000,EUR,Ueberweisung,ausstehend
+TX108,P6,DFB,Niklas Schroeder,Auflaufpraemie Spiel G12 vs. Spanien,Auflaufpraemie,3/20/2026,15000,EUR,Ueberweisung,ausstehend
+TX109,P7,DFB,David Meyer,Auflaufpraemie Spiel G1 vs. Frankreich,Auflaufpraemie,9/6/2024,15000,EUR,Ueberweisung,bezahlt
+TX110,P7,DFB,David Meyer,Siegpraemie Spiel G1 vs. Frankreich,Siegpraemie,9/6/2024,10000,EUR,Ueberweisung,bezahlt
+TX111,P7,DFB,David Meyer,Auflaufpraemie Spiel G2 vs. Niederlande,Auflaufpraemie,10/11/2024,15000,EUR,Ueberweisung,bezahlt
+TX112,P7,DFB,David Meyer,Auflaufpraemie Spiel G3 vs. Italien,Auflaufpraemie,11/15/2024,15000,EUR,Ueberweisung,bezahlt
+TX113,P7,DFB,David Meyer,Auflaufpraemie Spiel G4 vs. Ungarn,Auflaufpraemie,11/19/2024,15000,EUR,Ueberweisung,bezahlt
+TX114,P7,DFB,David Meyer,Siegpraemie Spiel G4 vs. Ungarn,Siegpraemie,11/19/2024,10000,EUR,Ueberweisung,bezahlt
+TX115,P7,DFB,David Meyer,Auflaufpraemie Spiel G5 vs. USA,Auflaufpraemie,3/21/2025,15000,EUR,SEPA-Lastschrift,bezahlt
+TX116,P7,DFB,David Meyer,Siegpraemie Spiel G5 vs. USA,Siegpraemie,3/21/2025,10000,EUR,Ueberweisung,bezahlt
+TX117,P7,DFB,David Meyer,Auflaufpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Auflaufpraemie,6/2/2025,15000,EUR,SEPA-Lastschrift,bezahlt
+TX118,P7,DFB,David Meyer,Siegpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Siegpraemie,6/2/2025,10000,EUR,SEPA-Lastschrift,bezahlt
+TX119,P7,DFB,David Meyer,Auflaufpraemie Spiel G7 vs. Belgien,Auflaufpraemie,9/5/2025,15000,EUR,Ueberweisung,ausstehend
+TX120,P7,DFB,David Meyer,Auflaufpraemie Spiel G8 vs. Polen,Auflaufpraemie,9/8/2025,15000,EUR,Ueberweisung,ausstehend
+TX121,P7,DFB,David Meyer,Siegpraemie Spiel G8 vs. Polen,Siegpraemie,9/8/2025,10000,EUR,SEPA-Lastschrift,ausstehend
+TX122,P7,DFB,David Meyer,Auflaufpraemie Spiel G9 vs. Portugal,Auflaufpraemie,10/10/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX123,P7,DFB,David Meyer,Siegpraemie Spiel G9 vs. Portugal,Siegpraemie,10/10/2025,10000,EUR,SEPA-Lastschrift,ausstehend
+TX124,P7,DFB,David Meyer,Auflaufpraemie Spiel G10 vs. Portugal,Auflaufpraemie,10/13/2025,15000,EUR,Ueberweisung,ausstehend
+TX125,P7,DFB,David Meyer,Auflaufpraemie Spiel G11 vs. Brasilien,Auflaufpraemie,11/14/2025,15000,EUR,Ueberweisung,ausstehend
+TX126,P7,DFB,David Meyer,Auflaufpraemie Spiel G12 vs. Spanien,Auflaufpraemie,3/20/2026,15000,EUR,SEPA-Lastschrift,ausstehend
+TX127,P8,DFB,Paul Zimmermann,Auflaufpraemie Spiel G1 vs. Frankreich,Auflaufpraemie,9/6/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX128,P8,DFB,Paul Zimmermann,Siegpraemie Spiel G1 vs. Frankreich,Siegpraemie,9/6/2024,10000,EUR,SEPA-Lastschrift,bezahlt
+TX129,P8,DFB,Paul Zimmermann,Auflaufpraemie Spiel G2 vs. Niederlande,Auflaufpraemie,10/11/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX130,P8,DFB,Paul Zimmermann,Auflaufpraemie Spiel G3 vs. Italien,Auflaufpraemie,11/15/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX131,P8,DFB,Paul Zimmermann,Auflaufpraemie Spiel G4 vs. Ungarn,Auflaufpraemie,11/19/2024,15000,EUR,Ueberweisung,bezahlt
+TX132,P8,DFB,Paul Zimmermann,Siegpraemie Spiel G4 vs. Ungarn,Siegpraemie,11/19/2024,10000,EUR,SEPA-Lastschrift,bezahlt
+TX133,P8,DFB,Paul Zimmermann,Auflaufpraemie Spiel G5 vs. USA,Auflaufpraemie,3/21/2025,15000,EUR,SEPA-Lastschrift,bezahlt
+TX134,P8,DFB,Paul Zimmermann,Siegpraemie Spiel G5 vs. USA,Siegpraemie,3/21/2025,10000,EUR,Ueberweisung,bezahlt
+TX135,P8,DFB,Paul Zimmermann,Auflaufpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Auflaufpraemie,6/2/2025,15000,EUR,Ueberweisung,bezahlt
+TX136,P8,DFB,Paul Zimmermann,Siegpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Siegpraemie,6/2/2025,10000,EUR,Ueberweisung,bezahlt
+TX137,P8,DFB,Paul Zimmermann,Auflaufpraemie Spiel G7 vs. Belgien,Auflaufpraemie,9/5/2025,15000,EUR,Ueberweisung,ausstehend
+TX138,P8,DFB,Paul Zimmermann,Auflaufpraemie Spiel G8 vs. Polen,Auflaufpraemie,9/8/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX139,P8,DFB,Paul Zimmermann,Siegpraemie Spiel G8 vs. Polen,Siegpraemie,9/8/2025,10000,EUR,Ueberweisung,ausstehend
+TX140,P8,DFB,Paul Zimmermann,Auflaufpraemie Spiel G9 vs. Portugal,Auflaufpraemie,10/10/2025,15000,EUR,Ueberweisung,ausstehend
+TX141,P8,DFB,Paul Zimmermann,Siegpraemie Spiel G9 vs. Portugal,Siegpraemie,10/10/2025,10000,EUR,SEPA-Lastschrift,ausstehend
+TX142,P8,DFB,Paul Zimmermann,Auflaufpraemie Spiel G10 vs. Portugal,Auflaufpraemie,10/13/2025,15000,EUR,Ueberweisung,ausstehend
+TX143,P8,DFB,Paul Zimmermann,Auflaufpraemie Spiel G11 vs. Brasilien,Auflaufpraemie,11/14/2025,15000,EUR,Ueberweisung,ausstehend
+TX144,P8,DFB,Paul Zimmermann,Auflaufpraemie Spiel G12 vs. Spanien,Auflaufpraemie,3/20/2026,15000,EUR,Ueberweisung,ausstehend
+TX145,P9,DFB,Julian Weber,Auflaufpraemie Spiel G1 vs. Frankreich,Auflaufpraemie,9/6/2024,15000,EUR,Ueberweisung,bezahlt
+TX146,P9,DFB,Julian Weber,Siegpraemie Spiel G1 vs. Frankreich,Siegpraemie,9/6/2024,10000,EUR,Ueberweisung,bezahlt
+TX147,P9,DFB,Julian Weber,Auflaufpraemie Spiel G3 vs. Italien,Auflaufpraemie,11/15/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX148,P9,DFB,Julian Weber,Auflaufpraemie Spiel G5 vs. USA,Auflaufpraemie,3/21/2025,15000,EUR,Ueberweisung,bezahlt
+TX149,P9,DFB,Julian Weber,Siegpraemie Spiel G5 vs. USA,Siegpraemie,3/21/2025,10000,EUR,Ueberweisung,bezahlt
+TX150,P9,DFB,Julian Weber,Auflaufpraemie Spiel G7 vs. Belgien,Auflaufpraemie,9/5/2025,15000,EUR,Ueberweisung,ausstehend
+TX151,P9,DFB,Julian Weber,Auflaufpraemie Spiel G9 vs. Portugal,Auflaufpraemie,10/10/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX152,P9,DFB,Julian Weber,Siegpraemie Spiel G9 vs. Portugal,Siegpraemie,10/10/2025,10000,EUR,Ueberweisung,ausstehend
+TX153,P9,DFB,Julian Weber,Auflaufpraemie Spiel G11 vs. Brasilien,Auflaufpraemie,11/14/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX154,P10,DFB,Erik Schulz,Auflaufpraemie Spiel G1 vs. Frankreich,Auflaufpraemie,9/6/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX155,P10,DFB,Erik Schulz,Siegpraemie Spiel G1 vs. Frankreich,Siegpraemie,9/6/2024,10000,EUR,SEPA-Lastschrift,bezahlt
+TX156,P10,DFB,Erik Schulz,Auflaufpraemie Spiel G3 vs. Italien,Auflaufpraemie,11/15/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX157,P10,DFB,Erik Schulz,Auflaufpraemie Spiel G5 vs. USA,Auflaufpraemie,3/21/2025,15000,EUR,Ueberweisung,bezahlt
+TX158,P10,DFB,Erik Schulz,Siegpraemie Spiel G5 vs. USA,Siegpraemie,3/21/2025,10000,EUR,Ueberweisung,bezahlt
+TX159,P10,DFB,Erik Schulz,Auflaufpraemie Spiel G7 vs. Belgien,Auflaufpraemie,9/5/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX160,P10,DFB,Erik Schulz,Auflaufpraemie Spiel G9 vs. Portugal,Auflaufpraemie,10/10/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX161,P10,DFB,Erik Schulz,Siegpraemie Spiel G9 vs. Portugal,Siegpraemie,10/10/2025,10000,EUR,SEPA-Lastschrift,ausstehend
+TX162,P10,DFB,Erik Schulz,Auflaufpraemie Spiel G11 vs. Brasilien,Auflaufpraemie,11/14/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX163,P11,DFB,Moritz Hoffmann,Auflaufpraemie Spiel G1 vs. Frankreich,Auflaufpraemie,9/6/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX164,P11,DFB,Moritz Hoffmann,Siegpraemie Spiel G1 vs. Frankreich,Siegpraemie,9/6/2024,10000,EUR,Ueberweisung,bezahlt
+TX165,P11,DFB,Moritz Hoffmann,Auflaufpraemie Spiel G3 vs. Italien,Auflaufpraemie,11/15/2024,15000,EUR,Ueberweisung,bezahlt
+TX166,P11,DFB,Moritz Hoffmann,Auflaufpraemie Spiel G5 vs. USA,Auflaufpraemie,3/21/2025,15000,EUR,Ueberweisung,bezahlt
+TX167,P11,DFB,Moritz Hoffmann,Siegpraemie Spiel G5 vs. USA,Siegpraemie,3/21/2025,10000,EUR,SEPA-Lastschrift,bezahlt
+TX168,P11,DFB,Moritz Hoffmann,Auflaufpraemie Spiel G7 vs. Belgien,Auflaufpraemie,9/5/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX169,P11,DFB,Moritz Hoffmann,Auflaufpraemie Spiel G9 vs. Portugal,Auflaufpraemie,10/10/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX170,P11,DFB,Moritz Hoffmann,Siegpraemie Spiel G9 vs. Portugal,Siegpraemie,10/10/2025,10000,EUR,Ueberweisung,ausstehend
+TX171,P11,DFB,Moritz Hoffmann,Auflaufpraemie Spiel G11 vs. Brasilien,Auflaufpraemie,11/14/2025,15000,EUR,Ueberweisung,ausstehend
+TX172,P12,DFB,Simon Koch,Auflaufpraemie Spiel G1 vs. Frankreich,Auflaufpraemie,9/6/2024,15000,EUR,Ueberweisung,bezahlt
+TX173,P12,DFB,Simon Koch,Siegpraemie Spiel G1 vs. Frankreich,Siegpraemie,9/6/2024,10000,EUR,SEPA-Lastschrift,bezahlt
+TX174,P12,DFB,Simon Koch,Auflaufpraemie Spiel G3 vs. Italien,Auflaufpraemie,11/15/2024,15000,EUR,Ueberweisung,bezahlt
+TX175,P12,DFB,Simon Koch,Auflaufpraemie Spiel G5 vs. USA,Auflaufpraemie,3/21/2025,15000,EUR,Ueberweisung,bezahlt
+TX176,P12,DFB,Simon Koch,Siegpraemie Spiel G5 vs. USA,Siegpraemie,3/21/2025,10000,EUR,SEPA-Lastschrift,bezahlt
+TX177,P12,DFB,Simon Koch,Auflaufpraemie Spiel G7 vs. Belgien,Auflaufpraemie,9/5/2025,15000,EUR,Ueberweisung,ausstehend
+TX178,P12,DFB,Simon Koch,Auflaufpraemie Spiel G9 vs. Portugal,Auflaufpraemie,10/10/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX179,P12,DFB,Simon Koch,Siegpraemie Spiel G9 vs. Portugal,Siegpraemie,10/10/2025,10000,EUR,SEPA-Lastschrift,ausstehend
+TX180,P12,DFB,Simon Koch,Auflaufpraemie Spiel G11 vs. Brasilien,Auflaufpraemie,11/14/2025,15000,EUR,Ueberweisung,ausstehend
+TX181,P13,DFB,Fabian Richter,Auflaufpraemie Spiel G1 vs. Frankreich,Auflaufpraemie,9/6/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX182,P13,DFB,Fabian Richter,Siegpraemie Spiel G1 vs. Frankreich,Siegpraemie,9/6/2024,10000,EUR,Ueberweisung,bezahlt
+TX183,P13,DFB,Fabian Richter,Auflaufpraemie Spiel G3 vs. Italien,Auflaufpraemie,11/15/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX184,P13,DFB,Fabian Richter,Auflaufpraemie Spiel G5 vs. USA,Auflaufpraemie,3/21/2025,15000,EUR,Ueberweisung,bezahlt
+TX185,P13,DFB,Fabian Richter,Siegpraemie Spiel G5 vs. USA,Siegpraemie,3/21/2025,10000,EUR,Ueberweisung,bezahlt
+TX186,P13,DFB,Fabian Richter,Auflaufpraemie Spiel G7 vs. Belgien,Auflaufpraemie,9/5/2025,15000,EUR,Ueberweisung,ausstehend
+TX187,P13,DFB,Fabian Richter,Auflaufpraemie Spiel G9 vs. Portugal,Auflaufpraemie,10/10/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX188,P13,DFB,Fabian Richter,Siegpraemie Spiel G9 vs. Portugal,Siegpraemie,10/10/2025,10000,EUR,Ueberweisung,ausstehend
+TX189,P13,DFB,Fabian Richter,Auflaufpraemie Spiel G11 vs. Brasilien,Auflaufpraemie,11/14/2025,15000,EUR,Ueberweisung,ausstehend
+TX190,P14,DFB,Lukas Wolf,Auflaufpraemie Spiel G1 vs. Frankreich,Auflaufpraemie,9/6/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX191,P14,DFB,Lukas Wolf,Siegpraemie Spiel G1 vs. Frankreich,Siegpraemie,9/6/2024,10000,EUR,SEPA-Lastschrift,bezahlt
+TX192,P14,DFB,Lukas Wolf,Auflaufpraemie Spiel G3 vs. Italien,Auflaufpraemie,11/15/2024,15000,EUR,Ueberweisung,bezahlt
+TX193,P14,DFB,Lukas Wolf,Auflaufpraemie Spiel G5 vs. USA,Auflaufpraemie,3/21/2025,15000,EUR,Ueberweisung,bezahlt
+TX194,P14,DFB,Lukas Wolf,Siegpraemie Spiel G5 vs. USA,Siegpraemie,3/21/2025,10000,EUR,SEPA-Lastschrift,bezahlt
+TX195,P14,DFB,Lukas Wolf,Auflaufpraemie Spiel G7 vs. Belgien,Auflaufpraemie,9/5/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX196,P14,DFB,Lukas Wolf,Auflaufpraemie Spiel G9 vs. Portugal,Auflaufpraemie,10/10/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX197,P14,DFB,Lukas Wolf,Siegpraemie Spiel G9 vs. Portugal,Siegpraemie,10/10/2025,10000,EUR,Ueberweisung,ausstehend
+TX198,P14,DFB,Lukas Wolf,Auflaufpraemie Spiel G11 vs. Brasilien,Auflaufpraemie,11/14/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX199,P15,DFB,Jan Neumann,Auflaufpraemie Spiel G2 vs. Niederlande,Auflaufpraemie,10/11/2024,15000,EUR,SEPA-Lastschrift,bezahlt
+TX200,P15,DFB,Jan Neumann,Auflaufpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Auflaufpraemie,6/2/2025,15000,EUR,SEPA-Lastschrift,bezahlt
+TX201,P15,DFB,Jan Neumann,Siegpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Siegpraemie,6/2/2025,10000,EUR,SEPA-Lastschrift,bezahlt
+TX202,P15,DFB,Jan Neumann,Auflaufpraemie Spiel G10 vs. Portugal,Auflaufpraemie,10/13/2025,15000,EUR,Ueberweisung,ausstehend
+TX203,P16,DFB,Marco Schwarz,Auflaufpraemie Spiel G2 vs. Niederlande,Auflaufpraemie,10/11/2024,15000,EUR,Ueberweisung,bezahlt
+TX204,P16,DFB,Marco Schwarz,Auflaufpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Auflaufpraemie,6/2/2025,15000,EUR,Ueberweisung,bezahlt
+TX205,P16,DFB,Marco Schwarz,Siegpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Siegpraemie,6/2/2025,10000,EUR,Ueberweisung,bezahlt
+TX206,P16,DFB,Marco Schwarz,Auflaufpraemie Spiel G10 vs. Portugal,Auflaufpraemie,10/13/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX207,P17,DFB,Daniel Braun,Auflaufpraemie Spiel G2 vs. Niederlande,Auflaufpraemie,10/11/2024,15000,EUR,Ueberweisung,bezahlt
+TX208,P17,DFB,Daniel Braun,Auflaufpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Auflaufpraemie,6/2/2025,15000,EUR,SEPA-Lastschrift,bezahlt
+TX209,P17,DFB,Daniel Braun,Siegpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Siegpraemie,6/2/2025,10000,EUR,Ueberweisung,bezahlt
+TX210,P17,DFB,Daniel Braun,Auflaufpraemie Spiel G10 vs. Portugal,Auflaufpraemie,10/13/2025,15000,EUR,SEPA-Lastschrift,ausstehend
+TX211,P18,DFB,Sebastian Krueger,Auflaufpraemie Spiel G2 vs. Niederlande,Auflaufpraemie,10/11/2024,15000,EUR,Ueberweisung,bezahlt
+TX212,P18,DFB,Sebastian Krueger,Auflaufpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Auflaufpraemie,6/2/2025,15000,EUR,SEPA-Lastschrift,bezahlt
+TX213,P18,DFB,Sebastian Krueger,Siegpraemie Spiel G6 vs. DFB-Bundesliga-Auswahl,Siegpraemie,6/2/2025,10000,EUR,SEPA-Lastschrift,bezahlt
+TX214,P18,DFB,Sebastian Krueger,Auflaufpraemie Spiel G10 vs. Portugal,Auflaufpraemie,10/13/2025,15000,EUR,Ueberweisung,ausstehend
+TX215,P19,DFB,Kevin Lange,Auflaufpraemie Spiel G13 vs. Frankreich U21,Auflaufpraemie,9/4/2025,5000,EUR,Ueberweisung,ausstehend
+TX216,P19,DFB,Kevin Lange,Siegpraemie Spiel G13 vs. Frankreich U21,Siegpraemie,9/4/2025,3000,EUR,SEPA-Lastschrift,ausstehend
+TX217,P19,DFB,Kevin Lange,Auflaufpraemie Spiel G14 vs. Niederlande U21,Auflaufpraemie,10/9/2025,5000,EUR,Ueberweisung,ausstehend
+TX218,P19,DFB,Kevin Lange,Auflaufpraemie Spiel G15 vs. England U21,Auflaufpraemie,11/13/2025,5000,EUR,SEPA-Lastschrift,ausstehend
+TX219,P20,DFB,Marvin Hofmann,Auflaufpraemie Spiel G13 vs. Frankreich U21,Auflaufpraemie,9/4/2025,5000,EUR,Ueberweisung,ausstehend
+TX220,P20,DFB,Marvin Hofmann,Siegpraemie Spiel G13 vs. Frankreich U21,Siegpraemie,9/4/2025,3000,EUR,SEPA-Lastschrift,ausstehend
+TX221,P20,DFB,Marvin Hofmann,Auflaufpraemie Spiel G14 vs. Niederlande U21,Auflaufpraemie,10/9/2025,5000,EUR,SEPA-Lastschrift,ausstehend
+TX222,P20,DFB,Marvin Hofmann,Auflaufpraemie Spiel G15 vs. England U21,Auflaufpraemie,11/13/2025,5000,EUR,Ueberweisung,ausstehend
+TX223,P21,DFB,Ali Yildiz,Auflaufpraemie Spiel G13 vs. Frankreich U21,Auflaufpraemie,9/4/2025,5000,EUR,SEPA-Lastschrift,ausstehend
+TX224,P21,DFB,Ali Yildiz,Siegpraemie Spiel G13 vs. Frankreich U21,Siegpraemie,9/4/2025,3000,EUR,SEPA-Lastschrift,ausstehend
+TX225,P21,DFB,Ali Yildiz,Auflaufpraemie Spiel G14 vs. Niederlande U21,Auflaufpraemie,10/9/2025,5000,EUR,SEPA-Lastschrift,ausstehend
+TX226,P21,DFB,Ali Yildiz,Auflaufpraemie Spiel G15 vs. England U21,Auflaufpraemie,11/13/2025,5000,EUR,Ueberweisung,ausstehend
+TX227,P22,DFB,Niko Petrov,Auflaufpraemie Spiel G13 vs. Frankreich U21,Auflaufpraemie,9/4/2025,5000,EUR,Ueberweisung,ausstehend
+TX228,P22,DFB,Niko Petrov,Siegpraemie Spiel G13 vs. Frankreich U21,Siegpraemie,9/4/2025,3000,EUR,Ueberweisung,ausstehend
+TX229,P22,DFB,Niko Petrov,Auflaufpraemie Spiel G14 vs. Niederlande U21,Auflaufpraemie,10/9/2025,5000,EUR,Ueberweisung,ausstehend
+TX230,P22,DFB,Niko Petrov,Auflaufpraemie Spiel G15 vs. England U21,Auflaufpraemie,11/13/2025,5000,EUR,Ueberweisung,ausstehend
+TX231,P23,DFB,Elias Roth,Auflaufpraemie Spiel G16 vs. Frankreich U19,Auflaufpraemie,9/10/2025,2000,EUR,Ueberweisung,ausstehend
+TX232,P23,DFB,Elias Roth,Siegpraemie Spiel G16 vs. Frankreich U19,Siegpraemie,9/10/2025,1000,EUR,SEPA-Lastschrift,ausstehend
+TX233,P23,DFB,Elias Roth,Auflaufpraemie Spiel G17 vs. Italien U19,Auflaufpraemie,10/15/2025,2000,EUR,Ueberweisung,ausstehend
+TX234,P24,DFB,Milan Novak,Auflaufpraemie Spiel G16 vs. Frankreich U19,Auflaufpraemie,9/10/2025,2000,EUR,SEPA-Lastschrift,ausstehend
+TX235,P24,DFB,Milan Novak,Siegpraemie Spiel G16 vs. Frankreich U19,Siegpraemie,9/10/2025,1000,EUR,SEPA-Lastschrift,ausstehend
+TX236,P24,DFB,Milan Novak,Auflaufpraemie Spiel G17 vs. Italien U19,Auflaufpraemie,10/15/2025,2000,EUR,Ueberweisung,ausstehend
+TX237,P1,DFB,Max Wagner,Sonderzahlung Werbevertrag,Sonderzahlung,12/20/2024,5000,EUR,Ueberweisung,bezahlt
+TX238,P3,DFB,Leon Fischer,Sonderzahlung Jubilaeum 50. Laenderspiel,Sonderzahlung,1/15/2025,3000,EUR,Ueberweisung,bezahlt
+TX239,P7,DFB,David Meyer,Sonderzahlung Imagekampagne,Sonderzahlung,2/10/2025,2500,EUR,Ueberweisung,bezahlt
+TX240,P9,DFB,Julian Weber,Sonderzahlung Werbevertrag,Sonderzahlung,9/15/2025,4000,EUR,Ueberweisung,ausstehend
+TX241,P16,DFB,Marco Schwarz,Sonderzahlung Antrittspraemie,Sonderzahlung,11/1/2025,1500,EUR,Ueberweisung,ausstehend
+TX242,P21,DFB,Ali Yildiz,Sonderzahlung Foerderprogramm,Sonderzahlung,10/1/2025,1000,EUR,SEPA-Lastschrift,ausstehend

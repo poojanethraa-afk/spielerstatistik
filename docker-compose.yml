@@ -1,0 +1,15 @@
+services:
+  oracle:
+    image: gvenzl/oracle-free:23-slim
+    container_name: oracle-dfb
+    environment:
+      - ORACLE_PASSWORD=${ORACLE_PASSWORD}
+    ports:
+      - "1521:1521"
+
+  spark:
+    image: apache/spark-py:v3.4.0
+    container_name: spark-dfb
+    volumes:
+      - ./:/app
+    command: tail -f /dev/null

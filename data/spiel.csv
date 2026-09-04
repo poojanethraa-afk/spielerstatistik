@@ -1,0 +1,18 @@
+Spiel_ID,Spieldatum,Saison,Spielort,Spielland,Mannschaft1,Mannschaft2,Mannschaft1_Kapitaen,Mannschaft2_Kapitaen,Ergebnis,Zuschauerzahl,Zuschauereinnahmen_EUR,Sponsoreneinnahmen_EUR,istLaenderspiel,Nationalmannschaftskategorie
+G1,2024-09-06,2024/2025,Paris,Frankreich,Deutschland,Frankreich,Max Wagner,A. Girard,2:1,78000,3900000,1200000,Ja,A-Mannschaft
+G2,2024-10-11,2024/2025,Muenchen,Deutschland,Deutschland,Niederlande,Max Wagner,L. de Boer,1:1,70000,3500000,1100000,Ja,A-Mannschaft
+G3,2024-11-15,2024/2025,Mailand,Italien,Deutschland,Italien,Max Wagner,M. Rossi,0:2,65000,3250000,1000000,Ja,A-Mannschaft
+G4,2024-11-19,2024/2025,Dortmund,Deutschland,Deutschland,Ungarn,Max Wagner,G. Nagy,3:0,60000,3000000,950000,Ja,A-Mannschaft
+G5,2025-03-21,2024/2025,Frankfurt,Deutschland,Deutschland,USA,Max Wagner,J. Wilson,4:1,45000,2250000,800000,Ja,A-Mannschaft
+G6,2025-06-02,2024/2025,Leipzig,Deutschland,Deutschland,DFB-Bundesliga-Auswahl,Max Wagner,T. Schmidt,5:0,5000,50000,20000,Nein,A-Mannschaft
+G7,2025-09-05,2025/2026,Bruessel,Belgien,Deutschland,Belgien,Max Wagner,R. Verhoeven,2:2,50000,2500000,900000,Ja,A-Mannschaft
+G8,2025-09-08,2025/2026,Warschau,Polen,Deutschland,Polen,Max Wagner,P. Kowalski,1:0,55000,2750000,950000,Ja,A-Mannschaft
+G9,2025-10-10,2025/2026,Leipzig,Deutschland,Deutschland,Portugal,Max Wagner,R. Alves,3:1,42000,2100000,850000,Ja,A-Mannschaft
+G10,2025-10-13,2025/2026,Lissabon,Portugal,Deutschland,Portugal,Max Wagner,R. Alves,0:0,48000,2400000,880000,Ja,A-Mannschaft
+G11,2025-11-14,2025/2026,Berlin,Deutschland,Deutschland,Brasilien,Max Wagner,C. Silva,2:3,71000,3550000,1300000,Ja,A-Mannschaft
+G12,2026-03-20,2025/2026,Madrid,Spanien,Deutschland,Spanien,Max Wagner,D. Garcia,1:1,68000,3400000,1250000,Ja,A-Mannschaft
+G13,2025-09-04,2025/2026,Leipzig,Deutschland,Deutschland U21,Frankreich U21,Kevin Lange,T. Petit,1:0,8000,120000,40000,Ja,U21
+G14,2025-10-09,2025/2026,Enschede,Niederlande,Deutschland U21,Niederlande U21,Kevin Lange,S. Jansen,2:2,6000,90000,30000,Ja,U21
+G15,2025-11-13,2025/2026,Dortmund,Deutschland,Deutschland U21,England U21,Kevin Lange,H. Smith,0:1,9000,135000,45000,Ja,U21
+G16,2025-09-10,2025/2026,Kaiserslautern,Deutschland,Deutschland U19,Frankreich U19,Elias Roth,L. Moreau,3:1,2000,20000,10000,Ja,U19
+G17,2025-10-15,2025/2026,Rom,Italien,Deutschland U19,Italien U19,Elias Roth,F. Conti,1:1,1500,15000,8000,Ja,U19

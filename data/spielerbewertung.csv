@@ -1,0 +1,161 @@
+Spiel_ID,Spieler_ID,Bewerter,Bewertung_in_Prozent,Kommentar
+G1,P1,Bundestrainer-Team,78.7,Stabil im Spielaufbau
+G2,P1,Bundestrainer-Team,65.2,Ausbaufaehig
+G3,P1,Co-Trainer,82.2,Spielentscheidend
+G4,P1,Bundestrainer-Team,88.0,Spielentscheidend
+G5,P1,Bundestrainer-Team,70.6,Solide Leistung
+G6,P1,Co-Trainer,63.1,Mit Startschwierigkeiten
+G7,P1,Bundestrainer-Team,56.0,Mit Startschwierigkeiten
+G8,P1,Co-Trainer,79.0,Guter Auftritt
+G9,P1,Co-Trainer,63.2,Schwacher Tag
+G10,P1,Bundestrainer-Team,84.9,Herausragende Leistung
+G11,P1,Chefscout,80.8,Guter Auftritt
+G12,P1,Chefscout,60.8,Ausbaufaehig
+G1,P2,Bundestrainer-Team,58.4,Schwacher Tag
+G2,P2,Co-Trainer,86.4,Ueberzeugender Auftritt
+G3,P2,Co-Trainer,84.9,Ueberzeugender Auftritt
+G4,P2,Chefscout,74.8,Solide Leistung
+G5,P2,Co-Trainer,75.4,Stabil im Spielaufbau
+G6,P2,Chefscout,87.8,Spielentscheidend
+G7,P2,Bundestrainer-Team,62.1,Ausbaufaehig
+G8,P2,Chefscout,79.5,Solide Leistung
+G9,P2,Bundestrainer-Team,86.6,Ueberzeugender Auftritt
+G10,P2,Co-Trainer,65.3,Schwacher Tag
+G11,P2,Chefscout,61.0,Ausbaufaehig
+G12,P2,Co-Trainer,79.8,Stabil im Spielaufbau
+G1,P3,Co-Trainer,79.0,Stabil im Spielaufbau
+G2,P3,Co-Trainer,61.3,Ausbaufaehig
+G3,P3,Chefscout,61.0,Schwacher Tag
+G4,P3,Co-Trainer,91.6,Spielentscheidend
+G5,P3,Co-Trainer,75.6,Guter Auftritt
+G6,P3,Bundestrainer-Team,86.2,Herausragende Leistung
+G7,P3,Chefscout,85.4,Ueberzeugender Auftritt
+G8,P3,Bundestrainer-Team,64.9,Mit Startschwierigkeiten
+G9,P3,Chefscout,87.4,Herausragende Leistung
+G10,P3,Chefscout,79.3,Stabil im Spielaufbau
+G11,P3,Chefscout,72.0,Solide Leistung
+G12,P3,Co-Trainer,64.1,Mit Startschwierigkeiten
+G1,P4,Co-Trainer,64.7,Schwacher Tag
+G2,P4,Chefscout,88.2,Ueberzeugender Auftritt
+G3,P4,Bundestrainer-Team,63.1,Mit Startschwierigkeiten
+G4,P4,Bundestrainer-Team,73.3,Solide Leistung
+G5,P4,Bundestrainer-Team,60.7,Mit Startschwierigkeiten
+G6,P4,Bundestrainer-Team,70.6,Guter Auftritt
+G7,P4,Chefscout,69.1,Stabil im Spielaufbau
+G8,P4,Co-Trainer,64.3,Ausbaufaehig
+G9,P4,Bundestrainer-Team,80.2,Stabil im Spielaufbau
+G10,P4,Chefscout,87.7,Spielentscheidend
+G11,P4,Chefscout,67.6,Schwacher Tag
+G12,P4,Bundestrainer-Team,60.9,Mit Startschwierigkeiten
+G1,P5,Chefscout,87.4,Spielentscheidend
+G2,P5,Co-Trainer,83.2,Herausragende Leistung
+G3,P5,Chefscout,87.2,Spielentscheidend
+G4,P5,Bundestrainer-Team,73.8,Solide Leistung
+G5,P5,Bundestrainer-Team,68.8,Stabil im Spielaufbau
+G6,P5,Co-Trainer,90.3,Herausragende Leistung
+G7,P5,Chefscout,77.2,Solide Leistung
+G8,P5,Chefscout,59.1,Schwacher Tag
+G9,P5,Bundestrainer-Team,63.9,Mit Startschwierigkeiten
+G10,P5,Bundestrainer-Team,90.0,Spielentscheidend
+G11,P5,Bundestrainer-Team,73.0,Stabil im Spielaufbau
+G12,P5,Bundestrainer-Team,83.3,Spielentscheidend
+G1,P6,Co-Trainer,72.6,Solide Leistung
+G2,P6,Co-Trainer,64.8,Schwacher Tag
+G3,P6,Co-Trainer,90.7,Spielentscheidend
+G4,P6,Co-Trainer,80.5,Guter Auftritt
+G5,P6,Co-Trainer,69.8,Stabil im Spielaufbau
+G6,P6,Co-Trainer,68.8,Guter Auftritt
+G7,P6,Bundestrainer-Team,59.5,Ausbaufaehig
+G8,P6,Co-Trainer,67.5,Mit Startschwierigkeiten
+G9,P6,Bundestrainer-Team,63.5,Ausbaufaehig
+G10,P6,Co-Trainer,57.6,Ausbaufaehig
+G11,P6,Bundestrainer-Team,63.5,Schwacher Tag
+G12,P6,Bundestrainer-Team,57.6,Schwacher Tag
+G1,P7,Bundestrainer-Team,79.8,Stabil im Spielaufbau
+G2,P7,Co-Trainer,59.9,Mit Startschwierigkeiten
+G3,P7,Chefscout,72.5,Guter Auftritt
+G4,P7,Bundestrainer-Team,62.0,Mit Startschwierigkeiten
+G5,P7,Chefscout,70.9,Guter Auftritt
+G6,P7,Co-Trainer,72.3,Solide Leistung
+G7,P7,Co-Trainer,79.9,Solide Leistung
+G8,P7,Co-Trainer,57.2,Schwacher Tag
+G9,P7,Bundestrainer-Team,84.6,Herausragende Leistung
+G10,P7,Co-Trainer,62.1,Schwacher Tag
+G11,P7,Bundestrainer-Team,60.2,Schwacher Tag
+G12,P7,Bundestrainer-Team,72.1,Guter Auftritt
+G1,P8,Co-Trainer,84.9,Herausragende Leistung
+G2,P8,Co-Trainer,56.9,Ausbaufaehig
+G3,P8,Bundestrainer-Team,90.9,Herausragende Leistung
+G4,P8,Chefscout,70.0,Solide Leistung
+G5,P8,Bundestrainer-Team,87.0,Herausragende Leistung
+G6,P8,Chefscout,69.0,Guter Auftritt
+G7,P8,Chefscout,89.3,Ueberzeugender Auftritt
+G8,P8,Co-Trainer,70.7,Stabil im Spielaufbau
+G9,P8,Chefscout,79.5,Solide Leistung
+G10,P8,Bundestrainer-Team,62.0,Ausbaufaehig
+G11,P8,Co-Trainer,76.4,Solide Leistung
+G12,P8,Bundestrainer-Team,82.7,Herausragende Leistung
+G1,P9,Co-Trainer,76.6,Stabil im Spielaufbau
+G3,P9,Co-Trainer,60.8,Ausbaufaehig
+G5,P9,Bundestrainer-Team,86.5,Spielentscheidend
+G7,P9,Bundestrainer-Team,57.5,Schwacher Tag
+G9,P9,Co-Trainer,59.4,Ausbaufaehig
+G11,P9,Bundestrainer-Team,76.4,Stabil im Spielaufbau
+G1,P10,Co-Trainer,58.0,Mit Startschwierigkeiten
+G3,P10,Chefscout,75.9,Guter Auftritt
+G5,P10,Co-Trainer,62.6,Schwacher Tag
+G7,P10,Chefscout,63.8,Ausbaufaehig
+G9,P10,Chefscout,79.9,Guter Auftritt
+G11,P10,Bundestrainer-Team,66.7,Ausbaufaehig
+G1,P11,Co-Trainer,72.0,Solide Leistung
+G3,P11,Bundestrainer-Team,57.7,Mit Startschwierigkeiten
+G5,P11,Chefscout,64.8,Ausbaufaehig
+G7,P11,Chefscout,87.5,Ueberzeugender Auftritt
+G9,P11,Co-Trainer,60.8,Mit Startschwierigkeiten
+G11,P11,Co-Trainer,66.2,Mit Startschwierigkeiten
+G1,P12,Co-Trainer,55.3,Schwacher Tag
+G3,P12,Bundestrainer-Team,89.5,Herausragende Leistung
+G5,P12,Bundestrainer-Team,64.8,Mit Startschwierigkeiten
+G7,P12,Chefscout,75.5,Guter Auftritt
+G9,P12,Co-Trainer,77.4,Guter Auftritt
+G11,P12,Co-Trainer,62.5,Schwacher Tag
+G1,P13,Chefscout,73.7,Solide Leistung
+G3,P13,Chefscout,58.4,Schwacher Tag
+G5,P13,Chefscout,56.6,Ausbaufaehig
+G7,P13,Chefscout,78.6,Solide Leistung
+G9,P13,Co-Trainer,82.4,Spielentscheidend
+G11,P13,Bundestrainer-Team,70.8,Solide Leistung
+G1,P14,Co-Trainer,57.8,Ausbaufaehig
+G3,P14,Chefscout,75.2,Stabil im Spielaufbau
+G5,P14,Chefscout,75.4,Solide Leistung
+G7,P14,Chefscout,56.5,Ausbaufaehig
+G9,P14,Bundestrainer-Team,88.3,Spielentscheidend
+G11,P14,Bundestrainer-Team,64.2,Schwacher Tag
+G2,P15,Chefscout,83.9,Spielentscheidend
+G6,P15,Bundestrainer-Team,82.7,Herausragende Leistung
+G10,P15,Bundestrainer-Team,91.1,Ueberzeugender Auftritt
+G2,P16,Co-Trainer,55.9,Schwacher Tag
+G6,P16,Chefscout,83.9,Spielentscheidend
+G10,P16,Bundestrainer-Team,87.0,Ueberzeugender Auftritt
+G2,P17,Co-Trainer,60.9,Ausbaufaehig
+G6,P17,Bundestrainer-Team,69.2,Guter Auftritt
+G10,P17,Chefscout,63.2,Schwacher Tag
+G2,P18,Bundestrainer-Team,66.3,Ausbaufaehig
+G6,P18,Bundestrainer-Team,55.9,Schwacher Tag
+G10,P18,Bundestrainer-Team,67.1,Schwacher Tag
+G13,P19,Co-Trainer,68.0,Guter Auftritt
+G14,P19,Co-Trainer,80.1,Guter Auftritt
+G15,P19,Bundestrainer-Team,89.8,Ueberzeugender Auftritt
+G13,P20,Chefscout,61.6,Ausbaufaehig
+G14,P20,Chefscout,59.0,Schwacher Tag
+G15,P20,Chefscout,82.0,Ueberzeugender Auftritt
+G13,P21,Co-Trainer,77.4,Solide Leistung
+G14,P21,Co-Trainer,69.3,Solide Leistung
+G15,P21,Co-Trainer,64.4,Schwacher Tag
+G13,P22,Co-Trainer,55.1,Mit Startschwierigkeiten
+G14,P22,Co-Trainer,81.6,Stabil im Spielaufbau
+G15,P22,Chefscout,79.8,Guter Auftritt
+G16,P23,Co-Trainer,57.6,Schwacher Tag
+G17,P23,Co-Trainer,78.1,Solide Leistung
+G16,P24,Chefscout,81.6,Stabil im Spielaufbau
+G17,P24,Chefscout,66.4,Schwacher Tag
